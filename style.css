@@ -10,14 +10,3 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-
-table {
-  border-spacing: 20px;
-}
-
-th, td {
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-}
